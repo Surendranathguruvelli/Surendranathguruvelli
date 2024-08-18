@@ -17,20 +17,20 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:pedro.sales.badisakushvanthvenkatakarthik@gmail.com">
+  <a href="mailto:pedro.sales.guruvellisurendranath@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/kushvanth-badisa" target="_blank">
+  <a href="https://www.linkedin.com/in/surendranath-guruvelli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://kushvanth-portfolio.netlify.app/" target="_blank">
+<!--   <a href="https://kushvanth-portfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   </a>
   <a href="https://twitter.com/kushvan77529516">
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=blue" />
-</a>
+</a> --> 
 
-<a href="https://www.hackerrank.com/profile/badisakushvanth1">
+<a href="https://www.hackerrank.com/profile/surendranathgur1">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
 </a>
 
@@ -70,7 +70,7 @@
 <img align='left' src="https://github.com/Kushvanth015/Kushvanth015/blob/main/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"><em>
    <b>  Say hello anytime!</b> I'm all about meeting new faces and making connections</b> :)</em>
 <br/>
-<a href="https://www.linkedin.com/in/kushvanth-badisa/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
+<a href="https://www.linkedin.com/in/surendranath-guruvelli/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
 <br/>
 <em><b>  You can also follow me on Github</b> :)</em>
 
